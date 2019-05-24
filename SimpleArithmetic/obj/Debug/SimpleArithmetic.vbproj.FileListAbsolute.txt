@@ -1,0 +1,17 @@
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\bin\Debug\SimpleArithmetic.exe.config
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\bin\Debug\SimpleArithmetic.exe
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\bin\Debug\SimpleArithmetic.pdb
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\bin\Debug\SimpleArithmetic.xml
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\obj\Debug\SimpleArithmetic.Form1.resources
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\obj\Debug\SimpleArithmetic.Resources.resources
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\obj\Debug\SimpleArithmetic.vbproj.GenerateResource.cache
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\obj\Debug\SimpleArithmetic.vbproj.CoreCompileInputs.cache
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\obj\Debug\SimpleArithmetic.exe
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\obj\Debug\SimpleArithmetic.xml
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\obj\Debug\SimpleArithmetic.pdb
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\bin\Debug\SimpleArithmetic.exe.manifest
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\bin\Debug\SimpleArithmetic.application
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\obj\Debug\SimpleArithmetic.TrustInfo.xml
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\obj\Debug\SimpleArithmetic.exe.manifest
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\obj\Debug\SimpleArithmetic.application
+C:\Development\Project\SchoolAssignment\SimpleArithmetic\obj\Debug\SimpleArithmetic.vbprojAssemblyReference.cache
